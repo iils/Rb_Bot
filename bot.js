@@ -1239,7 +1239,7 @@ CONST  fetchVideoInfo  =  تتطلب ( 'يوتيوب اينفو " )؛
 const  يوتيوب  =  تتطلب ( "بسيط يوتيوب- api" ) ؛ 
 CONST youtube  =  new  YouTube ( "AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8" )؛ // youtube api key 
 const  queue  =  new  Map ()؛ // the queue map 
-const  token  =  process . env . BOT_TOKEN // your bot token 
+const  token  =  process . env . BOT_TOKEN // NTI5Mjc3NjIzMDY3NDc1OTc4.Dw6UNA.A0LjW3HpFvfd7upDHePV1nDxUbk 
 const  prefix  =  '+' // your prefix 
 
 
